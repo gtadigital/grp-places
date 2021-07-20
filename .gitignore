@@ -1,1 +1,22 @@
-*.agdai
+# Ignore Mac system files
+.DS_store
+
+
+# iganore by type
+# *.fmp12
+*.fp12
+
+
+# Ignore local bkp,tmp,orig
+bkp
+tmp
+orig
+_bkp
+_tmp
+_orig
+_log
+
+# Ignore fp12, fmp12
+*.fmp12
+*.fp12
+
